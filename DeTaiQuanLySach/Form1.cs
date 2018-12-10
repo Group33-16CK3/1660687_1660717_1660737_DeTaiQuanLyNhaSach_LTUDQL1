@@ -14,7 +14,7 @@ namespace DeTaiQuanLySach
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();  
         }
     }
 }
