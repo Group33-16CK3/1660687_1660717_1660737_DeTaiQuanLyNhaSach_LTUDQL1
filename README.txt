@@ -6,4 +6,4 @@
   Bùi Khánh Việt   | 1660717 | 16CK3
   Lê Đình Ca Vũ    | 1660737 | 16CK3
 -Link Git: https://github.com/Group33-16CK3/1660687_1660717_1660737_DeTaiQuanLyNhaSach_LTUDQL1
--Link Google Docs: https://docs.google.com/document/d/1KtUmog7c9FbL3X9Hfw1mKMGeR3Wbj2Xwuh3KXpWQod0/edit?usp=sharing
+-Link Google Docs: https://docs.google.com/document/d/14GVztosmqVdwb5fGtHB9l8Mq7-Q7D_yul0qQtY1UeHw/edit?usp=sharing
